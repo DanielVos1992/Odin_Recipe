@@ -1,0 +1,26 @@
+#title {
+    font-size: 28px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+#list {
+    text-align: center;
+    font-size: 22px;
+    font-weight: lighter;
+    color:  black;
+}
+
+ul {
+    list-style: none;
+}
+
+.vlag#rood {
+    background-color: red;
+}
+
+.vlag#blauw {
+    background-color: blue;
+}
+
