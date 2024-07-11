@@ -1,3 +1,7 @@
+* {
+    background-color: bisque;
+}
+
 #title {
     font-size: 28px;
     color: black;
@@ -15,12 +19,3 @@
 ul {
     list-style: none;
 }
-
-.vlag#rood {
-    background-color: red;
-}
-
-.vlag#blauw {
-    background-color: blue;
-}
-
